@@ -1,4 +1,4 @@
-# Python-Pandas-CodingBat,Algorithm
+# Python-Pandas CodingBat Algorithm
 
  # Pandas 
  Grabbing Date and Web Scrapping with BeautifulSoup, and Pandas 
